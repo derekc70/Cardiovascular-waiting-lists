@@ -1,0 +1,856 @@
+﻿treatment_function,pod,test_name,n
+100,day,Magnetic Resonance Imaging,75
+101,day,Magnetic Resonance Imaging,56
+110,day,Magnetic Resonance Imaging,677
+120,day,Magnetic Resonance Imaging,201
+130,day,Magnetic Resonance Imaging,205
+140,day,Magnetic Resonance Imaging,13
+150,day,Magnetic Resonance Imaging,582
+160,day,Magnetic Resonance Imaging,21
+170,day,Magnetic Resonance Imaging,1
+300,day,Magnetic Resonance Imaging,198
+301,day,Magnetic Resonance Imaging,83
+320,day,Magnetic Resonance Imaging,1888
+330,day,Magnetic Resonance Imaging,14
+340,day,Magnetic Resonance Imaging,438
+400,day,Magnetic Resonance Imaging,2146
+410,day,Magnetic Resonance Imaging,23
+430,day,Magnetic Resonance Imaging,30
+502,day,Magnetic Resonance Imaging,15
+X01,day,Magnetic Resonance Imaging,23053
+100,ord,Magnetic Resonance Imaging,660
+101,ord,Magnetic Resonance Imaging,267
+110,ord,Magnetic Resonance Imaging,726
+120,ord,Magnetic Resonance Imaging,203
+130,ord,Magnetic Resonance Imaging,51
+140,ord,Magnetic Resonance Imaging,25
+150,ord,Magnetic Resonance Imaging,5703
+160,ord,Magnetic Resonance Imaging,34
+170,ord,Magnetic Resonance Imaging,29
+300,ord,Magnetic Resonance Imaging,659
+301,ord,Magnetic Resonance Imaging,402
+320,ord,Magnetic Resonance Imaging,486
+330,ord,Magnetic Resonance Imaging,16
+340,ord,Magnetic Resonance Imaging,402
+400,ord,Magnetic Resonance Imaging,1898
+410,ord,Magnetic Resonance Imaging,132
+430,ord,Magnetic Resonance Imaging,137
+502,ord,Magnetic Resonance Imaging,123
+X01,ord,Magnetic Resonance Imaging,7962
+100,day,Computed Tomography,570
+101,day,Computed Tomography,841
+110,day,Computed Tomography,301
+120,day,Computed Tomography,176
+130,day,Computed Tomography,46
+140,day,Computed Tomography,30
+150,day,Computed Tomography,330
+160,day,Computed Tomography,37
+170,day,Computed Tomography,2
+300,day,Computed Tomography,1500
+301,day,Computed Tomography,501
+320,day,Computed Tomography,1491
+330,day,Computed Tomography,8
+340,day,Computed Tomography,1559
+400,day,Computed Tomography,623
+410,day,Computed Tomography,22
+430,day,Computed Tomography,111
+502,day,Computed Tomography,45
+X01,day,Computed Tomography,9255
+100,ord,Computed Tomography,8361
+101,ord,Computed Tomography,5006
+110,ord,Computed Tomography,3748
+120,ord,Computed Tomography,777
+130,ord,Computed Tomography,68
+140,ord,Computed Tomography,146
+150,ord,Computed Tomography,7524
+160,ord,Computed Tomography,263
+170,ord,Computed Tomography,573
+300,ord,Computed Tomography,2947
+301,ord,Computed Tomography,2933
+320,ord,Computed Tomography,2114
+330,ord,Computed Tomography,36
+340,ord,Computed Tomography,2129
+400,ord,Computed Tomography,906
+410,ord,Computed Tomography,172
+430,ord,Computed Tomography,502
+502,ord,Computed Tomography,1608
+X01,ord,Computed Tomography,28429
+100,day,Non-obstetric Ultrasound,1794
+101,day,Non-obstetric Ultrasound,1448
+110,day,Non-obstetric Ultrasound,376
+120,day,Non-obstetric Ultrasound,38
+130,day,Non-obstetric Ultrasound,1786
+140,day,Non-obstetric Ultrasound,6
+150,day,Non-obstetric Ultrasound,0
+160,day,Non-obstetric Ultrasound,9
+170,day,Non-obstetric Ultrasound,0
+300,day,Non-obstetric Ultrasound,2167
+301,day,Non-obstetric Ultrasound,15863
+320,day,Non-obstetric Ultrasound,321
+330,day,Non-obstetric Ultrasound,1
+340,day,Non-obstetric Ultrasound,347
+400,day,Non-obstetric Ultrasound,2
+410,day,Non-obstetric Ultrasound,51
+430,day,Non-obstetric Ultrasound,7
+502,day,Non-obstetric Ultrasound,3628
+X01,day,Non-obstetric Ultrasound,8332
+100,ord,Non-obstetric Ultrasound,738
+101,ord,Non-obstetric Ultrasound,162
+110,ord,Non-obstetric Ultrasound,18
+120,ord,Non-obstetric Ultrasound,4
+130,ord,Non-obstetric Ultrasound,1
+140,ord,Non-obstetric Ultrasound,0
+150,ord,Non-obstetric Ultrasound,1
+160,ord,Non-obstetric Ultrasound,3
+170,ord,Non-obstetric Ultrasound,6
+300,ord,Non-obstetric Ultrasound,160
+301,ord,Non-obstetric Ultrasound,651
+320,ord,Non-obstetric Ultrasound,202
+330,ord,Non-obstetric Ultrasound,0
+340,ord,Non-obstetric Ultrasound,19
+400,ord,Non-obstetric Ultrasound,6
+410,ord,Non-obstetric Ultrasound,2
+430,ord,Non-obstetric Ultrasound,0
+502,ord,Non-obstetric Ultrasound,853
+X01,ord,Non-obstetric Ultrasound,1033
+100,day,Barium Enema,5
+101,day,Barium Enema,0
+110,day,Barium Enema,0
+120,day,Barium Enema,0
+130,day,Barium Enema,0
+140,day,Barium Enema,0
+150,day,Barium Enema,0
+160,day,Barium Enema,1
+170,day,Barium Enema,0
+300,day,Barium Enema,3
+301,day,Barium Enema,10
+320,day,Barium Enema,0
+330,day,Barium Enema,0
+340,day,Barium Enema,0
+400,day,Barium Enema,0
+410,day,Barium Enema,0
+430,day,Barium Enema,0
+502,day,Barium Enema,0
+X01,day,Barium Enema,197
+100,ord,Barium Enema,8
+101,ord,Barium Enema,0
+110,ord,Barium Enema,0
+120,ord,Barium Enema,4
+130,ord,Barium Enema,0
+140,ord,Barium Enema,0
+150,ord,Barium Enema,3
+160,ord,Barium Enema,1
+170,ord,Barium Enema,0
+300,ord,Barium Enema,0
+301,ord,Barium Enema,6
+320,ord,Barium Enema,0
+330,ord,Barium Enema,0
+340,ord,Barium Enema,4
+400,ord,Barium Enema,7
+410,ord,Barium Enema,0
+430,ord,Barium Enema,0
+502,ord,Barium Enema,1
+X01,ord,Barium Enema,105
+100,day,DEXA Scan,1
+101,day,DEXA Scan,0
+110,day,DEXA Scan,0
+120,day,DEXA Scan,0
+130,day,DEXA Scan,0
+140,day,DEXA Scan,0
+150,day,DEXA Scan,0
+160,day,DEXA Scan,0
+170,day,DEXA Scan,0
+300,day,DEXA Scan,72
+301,day,DEXA Scan,1
+320,day,DEXA Scan,0
+330,day,DEXA Scan,0
+340,day,DEXA Scan,0
+400,day,DEXA Scan,0
+410,day,DEXA Scan,0
+430,day,DEXA Scan,0
+502,day,DEXA Scan,0
+X01,day,DEXA Scan,85
+100,ord,DEXA Scan,0
+101,ord,DEXA Scan,0
+110,ord,DEXA Scan,1
+120,ord,DEXA Scan,0
+130,ord,DEXA Scan,0
+140,ord,DEXA Scan,0
+150,ord,DEXA Scan,0
+160,ord,DEXA Scan,0
+170,ord,DEXA Scan,0
+300,ord,DEXA Scan,0
+301,ord,DEXA Scan,0
+320,ord,DEXA Scan,0
+330,ord,DEXA Scan,0
+340,ord,DEXA Scan,2
+400,ord,DEXA Scan,0
+410,ord,DEXA Scan,2
+430,ord,DEXA Scan,0
+502,ord,DEXA Scan,0
+X01,ord,DEXA Scan,75
+100,day,Audiology - Audiology Assessments,0
+101,day,Audiology - Audiology Assessments,0
+110,day,Audiology - Audiology Assessments,0
+120,day,Audiology - Audiology Assessments,22
+130,day,Audiology - Audiology Assessments,1
+140,day,Audiology - Audiology Assessments,0
+150,day,Audiology - Audiology Assessments,0
+160,day,Audiology - Audiology Assessments,0
+170,day,Audiology - Audiology Assessments,0
+300,day,Audiology - Audiology Assessments,38
+301,day,Audiology - Audiology Assessments,0
+320,day,Audiology - Audiology Assessments,0
+330,day,Audiology - Audiology Assessments,0
+340,day,Audiology - Audiology Assessments,0
+400,day,Audiology - Audiology Assessments,0
+410,day,Audiology - Audiology Assessments,0
+430,day,Audiology - Audiology Assessments,0
+502,day,Audiology - Audiology Assessments,0
+X01,day,Audiology - Audiology Assessments,104
+100,ord,Audiology - Audiology Assessments,0
+101,ord,Audiology - Audiology Assessments,0
+110,ord,Audiology - Audiology Assessments,0
+120,ord,Audiology - Audiology Assessments,1
+130,ord,Audiology - Audiology Assessments,0
+140,ord,Audiology - Audiology Assessments,0
+150,ord,Audiology - Audiology Assessments,0
+160,ord,Audiology - Audiology Assessments,0
+170,ord,Audiology - Audiology Assessments,0
+300,ord,Audiology - Audiology Assessments,10
+301,ord,Audiology - Audiology Assessments,0
+320,ord,Audiology - Audiology Assessments,0
+330,ord,Audiology - Audiology Assessments,0
+340,ord,Audiology - Audiology Assessments,0
+400,ord,Audiology - Audiology Assessments,0
+410,ord,Audiology - Audiology Assessments,0
+430,ord,Audiology - Audiology Assessments,0
+502,ord,Audiology - Audiology Assessments,0
+X01,ord,Audiology - Audiology Assessments,15
+100,day,Cardiology - Echocardiography,11
+101,day,Cardiology - Echocardiography,12
+110,day,Cardiology - Echocardiography,10
+120,day,Cardiology - Echocardiography,12
+130,day,Cardiology - Echocardiography,2
+140,day,Cardiology - Echocardiography,2
+150,day,Cardiology - Echocardiography,2
+160,day,Cardiology - Echocardiography,0
+170,day,Cardiology - Echocardiography,21
+300,day,Cardiology - Echocardiography,431
+301,day,Cardiology - Echocardiography,12
+320,day,Cardiology - Echocardiography,22632
+330,day,Cardiology - Echocardiography,1
+340,day,Cardiology - Echocardiography,1662
+400,day,Cardiology - Echocardiography,85
+410,day,Cardiology - Echocardiography,5
+430,day,Cardiology - Echocardiography,10
+502,day,Cardiology - Echocardiography,11
+X01,day,Cardiology - Echocardiography,4707
+100,ord,Cardiology - Echocardiography,736
+101,ord,Cardiology - Echocardiography,445
+110,ord,Cardiology - Echocardiography,927
+120,ord,Cardiology - Echocardiography,147
+130,ord,Cardiology - Echocardiography,37
+140,ord,Cardiology - Echocardiography,44
+150,ord,Cardiology - Echocardiography,274
+160,ord,Cardiology - Echocardiography,64
+170,ord,Cardiology - Echocardiography,4467
+300,ord,Cardiology - Echocardiography,587
+301,ord,Cardiology - Echocardiography,270
+320,ord,Cardiology - Echocardiography,16835
+330,ord,Cardiology - Echocardiography,15
+340,ord,Cardiology - Echocardiography,1415
+400,ord,Cardiology - Echocardiography,455
+410,ord,Cardiology - Echocardiography,66
+430,ord,Cardiology - Echocardiography,121
+502,ord,Cardiology - Echocardiography,181
+X01,ord,Cardiology - Echocardiography,31194
+100,day,Cardiology - Electrophysiology,1
+101,day,Cardiology - Electrophysiology,0
+110,day,Cardiology - Electrophysiology,0
+120,day,Cardiology - Electrophysiology,0
+130,day,Cardiology - Electrophysiology,0
+140,day,Cardiology - Electrophysiology,0
+150,day,Cardiology - Electrophysiology,0
+160,day,Cardiology - Electrophysiology,0
+170,day,Cardiology - Electrophysiology,0
+300,day,Cardiology - Electrophysiology,0
+301,day,Cardiology - Electrophysiology,0
+320,day,Cardiology - Electrophysiology,1396
+330,day,Cardiology - Electrophysiology,0
+340,day,Cardiology - Electrophysiology,0
+400,day,Cardiology - Electrophysiology,0
+410,day,Cardiology - Electrophysiology,0
+430,day,Cardiology - Electrophysiology,0
+502,day,Cardiology - Electrophysiology,0
+X01,day,Cardiology - Electrophysiology,18
+100,ord,Cardiology - Electrophysiology,0
+101,ord,Cardiology - Electrophysiology,1
+110,ord,Cardiology - Electrophysiology,0
+120,ord,Cardiology - Electrophysiology,0
+130,ord,Cardiology - Electrophysiology,0
+140,ord,Cardiology - Electrophysiology,0
+150,ord,Cardiology - Electrophysiology,0
+160,ord,Cardiology - Electrophysiology,0
+170,ord,Cardiology - Electrophysiology,0
+300,ord,Cardiology - Electrophysiology,2
+301,ord,Cardiology - Electrophysiology,0
+320,ord,Cardiology - Electrophysiology,1632
+330,ord,Cardiology - Electrophysiology,0
+340,ord,Cardiology - Electrophysiology,0
+400,ord,Cardiology - Electrophysiology,0
+410,ord,Cardiology - Electrophysiology,1
+430,ord,Cardiology - Electrophysiology,0
+502,ord,Cardiology - Electrophysiology,0
+X01,ord,Cardiology - Electrophysiology,112
+100,day,Neurophysiology - Peripheral Neurophysiology,0
+101,day,Neurophysiology - Peripheral Neurophysiology,0
+110,day,Neurophysiology - Peripheral Neurophysiology,3
+120,day,Neurophysiology - Peripheral Neurophysiology,69
+130,day,Neurophysiology - Peripheral Neurophysiology,0
+140,day,Neurophysiology - Peripheral Neurophysiology,0
+150,day,Neurophysiology - Peripheral Neurophysiology,1
+160,day,Neurophysiology - Peripheral Neurophysiology,1
+170,day,Neurophysiology - Peripheral Neurophysiology,0
+300,day,Neurophysiology - Peripheral Neurophysiology,1
+301,day,Neurophysiology - Peripheral Neurophysiology,0
+320,day,Neurophysiology - Peripheral Neurophysiology,0
+330,day,Neurophysiology - Peripheral Neurophysiology,0
+340,day,Neurophysiology - Peripheral Neurophysiology,2
+400,day,Neurophysiology - Peripheral Neurophysiology,469
+410,day,Neurophysiology - Peripheral Neurophysiology,4
+430,day,Neurophysiology - Peripheral Neurophysiology,0
+502,day,Neurophysiology - Peripheral Neurophysiology,0
+X01,day,Neurophysiology - Peripheral Neurophysiology,636
+100,ord,Neurophysiology - Peripheral Neurophysiology,5
+101,ord,Neurophysiology - Peripheral Neurophysiology,3
+110,ord,Neurophysiology - Peripheral Neurophysiology,12
+120,ord,Neurophysiology - Peripheral Neurophysiology,25
+130,ord,Neurophysiology - Peripheral Neurophysiology,1
+140,ord,Neurophysiology - Peripheral Neurophysiology,0
+150,ord,Neurophysiology - Peripheral Neurophysiology,99
+160,ord,Neurophysiology - Peripheral Neurophysiology,1
+170,ord,Neurophysiology - Peripheral Neurophysiology,2
+300,ord,Neurophysiology - Peripheral Neurophysiology,8
+301,ord,Neurophysiology - Peripheral Neurophysiology,8
+320,ord,Neurophysiology - Peripheral Neurophysiology,2
+330,ord,Neurophysiology - Peripheral Neurophysiology,0
+340,ord,Neurophysiology - Peripheral Neurophysiology,19
+400,ord,Neurophysiology - Peripheral Neurophysiology,660
+410,ord,Neurophysiology - Peripheral Neurophysiology,9
+430,ord,Neurophysiology - Peripheral Neurophysiology,2
+502,ord,Neurophysiology - Peripheral Neurophysiology,0
+X01,ord,Neurophysiology - Peripheral Neurophysiology,231
+100,day,Respiratory physiology - Sleep Studies,0
+101,day,Respiratory physiology - Sleep Studies,0
+110,day,Respiratory physiology - Sleep Studies,0
+120,day,Respiratory physiology - Sleep Studies,20
+130,day,Respiratory physiology - Sleep Studies,1
+140,day,Respiratory physiology - Sleep Studies,0
+150,day,Respiratory physiology - Sleep Studies,0
+160,day,Respiratory physiology - Sleep Studies,0
+170,day,Respiratory physiology - Sleep Studies,0
+300,day,Respiratory physiology - Sleep Studies,0
+301,day,Respiratory physiology - Sleep Studies,1
+320,day,Respiratory physiology - Sleep Studies,4
+330,day,Respiratory physiology - Sleep Studies,0
+340,day,Respiratory physiology - Sleep Studies,1426
+400,day,Respiratory physiology - Sleep Studies,4
+410,day,Respiratory physiology - Sleep Studies,0
+430,day,Respiratory physiology - Sleep Studies,8
+502,day,Respiratory physiology - Sleep Studies,0
+X01,day,Respiratory physiology - Sleep Studies,794
+100,ord,Respiratory physiology - Sleep Studies,2
+101,ord,Respiratory physiology - Sleep Studies,0
+110,ord,Respiratory physiology - Sleep Studies,3
+120,ord,Respiratory physiology - Sleep Studies,703
+130,ord,Respiratory physiology - Sleep Studies,0
+140,ord,Respiratory physiology - Sleep Studies,3
+150,ord,Respiratory physiology - Sleep Studies,2
+160,ord,Respiratory physiology - Sleep Studies,1
+170,ord,Respiratory physiology - Sleep Studies,4
+300,ord,Respiratory physiology - Sleep Studies,27
+301,ord,Respiratory physiology - Sleep Studies,1
+320,ord,Respiratory physiology - Sleep Studies,8
+330,ord,Respiratory physiology - Sleep Studies,2
+340,ord,Respiratory physiology - Sleep Studies,6165
+400,ord,Respiratory physiology - Sleep Studies,705
+410,ord,Respiratory physiology - Sleep Studies,0
+430,ord,Respiratory physiology - Sleep Studies,0
+502,ord,Respiratory physiology - Sleep Studies,1
+X01,ord,Respiratory physiology - Sleep Studies,19164
+100,day,Urodynamics - Pressures & Flows,0
+101,day,Urodynamics - Pressures & Flows,4347
+110,day,Urodynamics - Pressures & Flows,1
+120,day,Urodynamics - Pressures & Flows,1
+130,day,Urodynamics - Pressures & Flows,0
+140,day,Urodynamics - Pressures & Flows,0
+150,day,Urodynamics - Pressures & Flows,0
+160,day,Urodynamics - Pressures & Flows,0
+170,day,Urodynamics - Pressures & Flows,0
+300,day,Urodynamics - Pressures & Flows,0
+301,day,Urodynamics - Pressures & Flows,1
+320,day,Urodynamics - Pressures & Flows,0
+330,day,Urodynamics - Pressures & Flows,0
+340,day,Urodynamics - Pressures & Flows,0
+400,day,Urodynamics - Pressures & Flows,0
+410,day,Urodynamics - Pressures & Flows,0
+430,day,Urodynamics - Pressures & Flows,0
+502,day,Urodynamics - Pressures & Flows,1207
+X01,day,Urodynamics - Pressures & Flows,4242
+100,ord,Urodynamics - Pressures & Flows,0
+101,ord,Urodynamics - Pressures & Flows,74
+110,ord,Urodynamics - Pressures & Flows,2
+120,ord,Urodynamics - Pressures & Flows,0
+130,ord,Urodynamics - Pressures & Flows,0
+140,ord,Urodynamics - Pressures & Flows,0
+150,ord,Urodynamics - Pressures & Flows,0
+160,ord,Urodynamics - Pressures & Flows,0
+170,ord,Urodynamics - Pressures & Flows,0
+300,ord,Urodynamics - Pressures & Flows,0
+301,ord,Urodynamics - Pressures & Flows,0
+320,ord,Urodynamics - Pressures & Flows,0
+330,ord,Urodynamics - Pressures & Flows,0
+340,ord,Urodynamics - Pressures & Flows,0
+400,ord,Urodynamics - Pressures & Flows,0
+410,ord,Urodynamics - Pressures & Flows,0
+430,ord,Urodynamics - Pressures & Flows,0
+502,ord,Urodynamics - Pressures & Flows,47
+X01,ord,Urodynamics - Pressures & Flows,179
+100,day,Colonoscopy,148763
+101,day,Colonoscopy,29
+110,day,Colonoscopy,24
+120,day,Colonoscopy,11
+130,day,Colonoscopy,11
+140,day,Colonoscopy,5
+150,day,Colonoscopy,0
+160,day,Colonoscopy,1
+170,day,Colonoscopy,0
+300,day,Colonoscopy,49003
+301,day,Colonoscopy,325356
+320,day,Colonoscopy,13
+330,day,Colonoscopy,7
+340,day,Colonoscopy,62
+400,day,Colonoscopy,4
+410,day,Colonoscopy,9
+430,day,Colonoscopy,349
+502,day,Colonoscopy,42
+X01,day,Colonoscopy,96615
+100,ord,Colonoscopy,4237
+101,ord,Colonoscopy,17
+110,ord,Colonoscopy,11
+120,ord,Colonoscopy,2
+130,ord,Colonoscopy,2
+140,ord,Colonoscopy,0
+150,ord,Colonoscopy,0
+160,ord,Colonoscopy,1
+170,ord,Colonoscopy,0
+300,ord,Colonoscopy,947
+301,ord,Colonoscopy,5560
+320,ord,Colonoscopy,14
+330,ord,Colonoscopy,5
+340,ord,Colonoscopy,12
+400,ord,Colonoscopy,8
+410,ord,Colonoscopy,1
+430,ord,Colonoscopy,26
+502,ord,Colonoscopy,12
+X01,ord,Colonoscopy,4372
+100,day,Flexi Sigmoidoscopy,76825
+101,day,Flexi Sigmoidoscopy,40
+110,day,Flexi Sigmoidoscopy,14
+120,day,Flexi Sigmoidoscopy,6
+130,day,Flexi Sigmoidoscopy,11
+140,day,Flexi Sigmoidoscopy,0
+150,day,Flexi Sigmoidoscopy,1
+160,day,Flexi Sigmoidoscopy,0
+170,day,Flexi Sigmoidoscopy,0
+300,day,Flexi Sigmoidoscopy,17448
+301,day,Flexi Sigmoidoscopy,167110
+320,day,Flexi Sigmoidoscopy,4
+330,day,Flexi Sigmoidoscopy,3
+340,day,Flexi Sigmoidoscopy,36
+400,day,Flexi Sigmoidoscopy,2
+410,day,Flexi Sigmoidoscopy,3
+430,day,Flexi Sigmoidoscopy,118
+502,day,Flexi Sigmoidoscopy,90
+X01,day,Flexi Sigmoidoscopy,45753
+100,ord,Flexi Sigmoidoscopy,1816
+101,ord,Flexi Sigmoidoscopy,46
+110,ord,Flexi Sigmoidoscopy,37
+120,ord,Flexi Sigmoidoscopy,3
+130,ord,Flexi Sigmoidoscopy,0
+140,ord,Flexi Sigmoidoscopy,1
+150,ord,Flexi Sigmoidoscopy,9
+160,ord,Flexi Sigmoidoscopy,2
+170,ord,Flexi Sigmoidoscopy,5
+300,ord,Flexi Sigmoidoscopy,305
+301,ord,Flexi Sigmoidoscopy,1913
+320,ord,Flexi Sigmoidoscopy,15
+330,ord,Flexi Sigmoidoscopy,0
+340,ord,Flexi Sigmoidoscopy,14
+400,ord,Flexi Sigmoidoscopy,10
+410,ord,Flexi Sigmoidoscopy,3
+430,ord,Flexi Sigmoidoscopy,16
+502,ord,Flexi Sigmoidoscopy,132
+X01,ord,Flexi Sigmoidoscopy,1719
+100,day,Cystoscopy,100
+101,day,Cystoscopy,143267
+110,day,Cystoscopy,21
+120,day,Cystoscopy,6
+130,day,Cystoscopy,6
+140,day,Cystoscopy,2
+150,day,Cystoscopy,0
+160,day,Cystoscopy,4
+170,day,Cystoscopy,0
+300,day,Cystoscopy,8
+301,day,Cystoscopy,56
+320,day,Cystoscopy,1
+330,day,Cystoscopy,0
+340,day,Cystoscopy,0
+400,day,Cystoscopy,0
+410,day,Cystoscopy,0
+430,day,Cystoscopy,0
+502,day,Cystoscopy,9535
+X01,day,Cystoscopy,2440
+100,ord,Cystoscopy,348
+101,ord,Cystoscopy,83380
+110,ord,Cystoscopy,66
+120,ord,Cystoscopy,5
+130,ord,Cystoscopy,1
+140,ord,Cystoscopy,2
+150,ord,Cystoscopy,10
+160,ord,Cystoscopy,14
+170,ord,Cystoscopy,5
+300,ord,Cystoscopy,22
+301,ord,Cystoscopy,19
+320,ord,Cystoscopy,10
+330,ord,Cystoscopy,0
+340,ord,Cystoscopy,6
+400,ord,Cystoscopy,2
+410,ord,Cystoscopy,1
+430,ord,Cystoscopy,7
+502,ord,Cystoscopy,4404
+X01,ord,Cystoscopy,1930
+100,day,Gastroscopy,83728
+101,day,Gastroscopy,64
+110,day,Gastroscopy,25
+120,day,Gastroscopy,6678
+130,day,Gastroscopy,16
+140,day,Gastroscopy,56
+150,day,Gastroscopy,1
+160,day,Gastroscopy,3
+170,day,Gastroscopy,8
+300,day,Gastroscopy,70440
+301,day,Gastroscopy,477324
+320,day,Gastroscopy,25
+330,day,Gastroscopy,6
+340,day,Gastroscopy,153
+400,day,Gastroscopy,13
+410,day,Gastroscopy,10
+430,day,Gastroscopy,672
+502,day,Gastroscopy,28
+X01,day,Gastroscopy,62169
+100,ord,Gastroscopy,2608
+101,ord,Gastroscopy,132
+110,ord,Gastroscopy,336
+120,ord,Gastroscopy,2469
+130,ord,Gastroscopy,2
+140,ord,Gastroscopy,52
+150,ord,Gastroscopy,19
+160,ord,Gastroscopy,13
+170,ord,Gastroscopy,29
+300,ord,Gastroscopy,1167
+301,ord,Gastroscopy,6529
+320,ord,Gastroscopy,86
+330,ord,Gastroscopy,8
+340,ord,Gastroscopy,61
+400,ord,Gastroscopy,57
+410,ord,Gastroscopy,16
+430,ord,Gastroscopy,60
+502,ord,Gastroscopy,18
+X01,ord,Gastroscopy,6505
+100,op,Magnetic Resonance Imaging,4258
+101,op,Magnetic Resonance Imaging,9402
+110,op,Magnetic Resonance Imaging,51637
+120,op,Magnetic Resonance Imaging,12143
+130,op,Magnetic Resonance Imaging,2794
+140,op,Magnetic Resonance Imaging,797
+150,op,Magnetic Resonance Imaging,5773
+160,op,Magnetic Resonance Imaging,705
+170,op,Magnetic Resonance Imaging,7
+300,op,Magnetic Resonance Imaging,1636
+301,op,Magnetic Resonance Imaging,4942
+320,op,Magnetic Resonance Imaging,4708
+330,op,Magnetic Resonance Imaging,263
+340,op,Magnetic Resonance Imaging,559
+400,op,Magnetic Resonance Imaging,19020
+410,op,Magnetic Resonance Imaging,4968
+430,op,Magnetic Resonance Imaging,1020
+502,op,Magnetic Resonance Imaging,3502
+X01,op,Magnetic Resonance Imaging,807778
+100,op,Computed Tomography,9209
+101,op,Computed Tomography,21864
+110,op,Computed Tomography,9834
+120,op,Computed Tomography,10837
+130,op,Computed Tomography,16405
+140,op,Computed Tomography,2835
+150,op,Computed Tomography,943
+160,op,Computed Tomography,1045
+170,op,Computed Tomography,114
+300,op,Computed Tomography,11713
+301,op,Computed Tomography,10501
+320,op,Computed Tomography,6103
+330,op,Computed Tomography,344
+340,op,Computed Tomography,15215
+400,op,Computed Tomography,1555
+410,op,Computed Tomography,1086
+430,op,Computed Tomography,2160
+502,op,Computed Tomography,1487
+X01,op,Computed Tomography,574593
+100,op,Non-obstetric Ultrasound,21189
+101,op,Non-obstetric Ultrasound,139117
+110,op,Non-obstetric Ultrasound,25340
+120,op,Non-obstetric Ultrasound,8117
+130,op,Non-obstetric Ultrasound,61236
+140,op,Non-obstetric Ultrasound,1552
+150,op,Non-obstetric Ultrasound,47
+160,op,Non-obstetric Ultrasound,1132
+170,op,Non-obstetric Ultrasound,6
+300,op,Non-obstetric Ultrasound,6594
+301,op,Non-obstetric Ultrasound,8157
+320,op,Non-obstetric Ultrasound,526
+330,op,Non-obstetric Ultrasound,626
+340,op,Non-obstetric Ultrasound,2374
+400,op,Non-obstetric Ultrasound,291
+410,op,Non-obstetric Ultrasound,15875
+430,op,Non-obstetric Ultrasound,489
+502,op,Non-obstetric Ultrasound,424937
+X01,op,Non-obstetric Ultrasound,1199402
+100,op,Barium Enema,692
+101,op,Barium Enema,6
+110,op,Barium Enema,10
+120,op,Barium Enema,2092
+130,op,Barium Enema,18
+140,op,Barium Enema,5
+150,op,Barium Enema,0
+160,op,Barium Enema,0
+170,op,Barium Enema,1
+300,op,Barium Enema,14
+301,op,Barium Enema,1723
+320,op,Barium Enema,10
+330,op,Barium Enema,8
+340,op,Barium Enema,212
+400,op,Barium Enema,6
+410,op,Barium Enema,30
+430,op,Barium Enema,10
+502,op,Barium Enema,28
+X01,op,Barium Enema,22647
+100,op,DEXA Scan,36
+101,op,DEXA Scan,14
+110,op,DEXA Scan,1603
+120,op,DEXA Scan,12
+130,op,DEXA Scan,16
+140,op,DEXA Scan,2
+150,op,DEXA Scan,2
+160,op,DEXA Scan,4
+170,op,DEXA Scan,0
+300,op,DEXA Scan,6184
+301,op,DEXA Scan,659
+320,op,DEXA Scan,10
+330,op,DEXA Scan,25
+340,op,DEXA Scan,318
+400,op,DEXA Scan,88
+410,op,DEXA Scan,16495
+430,op,DEXA Scan,7284
+502,op,DEXA Scan,712
+X01,op,DEXA Scan,98184
+100,op,Audiology - Audiology Assessments,27
+101,op,Audiology - Audiology Assessments,37
+110,op,Audiology - Audiology Assessments,34
+120,op,Audiology - Audiology Assessments,379582
+130,op,Audiology - Audiology Assessments,39
+140,op,Audiology - Audiology Assessments,9
+150,op,Audiology - Audiology Assessments,260
+160,op,Audiology - Audiology Assessments,3
+170,op,Audiology - Audiology Assessments,0
+300,op,Audiology - Audiology Assessments,11
+301,op,Audiology - Audiology Assessments,7
+320,op,Audiology - Audiology Assessments,12
+330,op,Audiology - Audiology Assessments,18
+340,op,Audiology - Audiology Assessments,7
+400,op,Audiology - Audiology Assessments,1070
+410,op,Audiology - Audiology Assessments,6
+430,op,Audiology - Audiology Assessments,7
+502,op,Audiology - Audiology Assessments,11
+X01,op,Audiology - Audiology Assessments,235764
+100,op,Cardiology - Echocardiography,4608
+101,op,Cardiology - Echocardiography,2333
+110,op,Cardiology - Echocardiography,5442
+120,op,Cardiology - Echocardiography,1227
+130,op,Cardiology - Echocardiography,691
+140,op,Cardiology - Echocardiography,1303
+150,op,Cardiology - Echocardiography,83
+160,op,Cardiology - Echocardiography,133
+170,op,Cardiology - Echocardiography,175
+300,op,Cardiology - Echocardiography,9277
+301,op,Cardiology - Echocardiography,201
+320,op,Cardiology - Echocardiography,454811
+330,op,Cardiology - Echocardiography,197
+340,op,Cardiology - Echocardiography,2048
+400,op,Cardiology - Echocardiography,583
+410,op,Cardiology - Echocardiography,984
+430,op,Cardiology - Echocardiography,914
+502,op,Cardiology - Echocardiography,739
+X01,op,Cardiology - Echocardiography,259404
+100,op,Cardiology - Electrophysiology,0
+101,op,Cardiology - Electrophysiology,0
+110,op,Cardiology - Electrophysiology,0
+120,op,Cardiology - Electrophysiology,0
+130,op,Cardiology - Electrophysiology,0
+140,op,Cardiology - Electrophysiology,0
+150,op,Cardiology - Electrophysiology,0
+160,op,Cardiology - Electrophysiology,0
+170,op,Cardiology - Electrophysiology,0
+300,op,Cardiology - Electrophysiology,0
+301,op,Cardiology - Electrophysiology,0
+320,op,Cardiology - Electrophysiology,2
+330,op,Cardiology - Electrophysiology,0
+340,op,Cardiology - Electrophysiology,0
+400,op,Cardiology - Electrophysiology,0
+410,op,Cardiology - Electrophysiology,0
+430,op,Cardiology - Electrophysiology,0
+502,op,Cardiology - Electrophysiology,0
+X01,op,Cardiology - Electrophysiology,55
+100,op,Neurophysiology - Peripheral Neurophysiology,6
+101,op,Neurophysiology - Peripheral Neurophysiology,10
+110,op,Neurophysiology - Peripheral Neurophysiology,8160
+120,op,Neurophysiology - Peripheral Neurophysiology,4
+130,op,Neurophysiology - Peripheral Neurophysiology,0
+140,op,Neurophysiology - Peripheral Neurophysiology,0
+150,op,Neurophysiology - Peripheral Neurophysiology,159
+160,op,Neurophysiology - Peripheral Neurophysiology,149
+170,op,Neurophysiology - Peripheral Neurophysiology,0
+300,op,Neurophysiology - Peripheral Neurophysiology,5
+301,op,Neurophysiology - Peripheral Neurophysiology,56
+320,op,Neurophysiology - Peripheral Neurophysiology,3
+330,op,Neurophysiology - Peripheral Neurophysiology,6
+340,op,Neurophysiology - Peripheral Neurophysiology,4
+400,op,Neurophysiology - Peripheral Neurophysiology,18023
+410,op,Neurophysiology - Peripheral Neurophysiology,4450
+430,op,Neurophysiology - Peripheral Neurophysiology,5
+502,op,Neurophysiology - Peripheral Neurophysiology,107
+X01,op,Neurophysiology - Peripheral Neurophysiology,107567
+100,op,Respiratory physiology - Sleep Studies,3
+101,op,Respiratory physiology - Sleep Studies,0
+110,op,Respiratory physiology - Sleep Studies,3
+120,op,Respiratory physiology - Sleep Studies,472
+130,op,Respiratory physiology - Sleep Studies,6
+140,op,Respiratory physiology - Sleep Studies,0
+150,op,Respiratory physiology - Sleep Studies,0
+160,op,Respiratory physiology - Sleep Studies,0
+170,op,Respiratory physiology - Sleep Studies,0
+300,op,Respiratory physiology - Sleep Studies,721
+301,op,Respiratory physiology - Sleep Studies,4
+320,op,Respiratory physiology - Sleep Studies,4246
+330,op,Respiratory physiology - Sleep Studies,0
+340,op,Respiratory physiology - Sleep Studies,15185
+400,op,Respiratory physiology - Sleep Studies,9
+410,op,Respiratory physiology - Sleep Studies,0
+430,op,Respiratory physiology - Sleep Studies,4
+502,op,Respiratory physiology - Sleep Studies,0
+X01,op,Respiratory physiology - Sleep Studies,23817
+100,op,Urodynamics - Pressures & Flows,252
+101,op,Urodynamics - Pressures & Flows,27820
+110,op,Urodynamics - Pressures & Flows,9
+120,op,Urodynamics - Pressures & Flows,3
+130,op,Urodynamics - Pressures & Flows,3
+140,op,Urodynamics - Pressures & Flows,0
+150,op,Urodynamics - Pressures & Flows,1
+160,op,Urodynamics - Pressures & Flows,2
+170,op,Urodynamics - Pressures & Flows,0
+300,op,Urodynamics - Pressures & Flows,230
+301,op,Urodynamics - Pressures & Flows,4
+320,op,Urodynamics - Pressures & Flows,4
+330,op,Urodynamics - Pressures & Flows,3
+340,op,Urodynamics - Pressures & Flows,0
+400,op,Urodynamics - Pressures & Flows,268
+410,op,Urodynamics - Pressures & Flows,3
+430,op,Urodynamics - Pressures & Flows,1
+502,op,Urodynamics - Pressures & Flows,24191
+X01,op,Urodynamics - Pressures & Flows,2452
+100,op,Colonoscopy,1175
+101,op,Colonoscopy,0
+110,op,Colonoscopy,1
+120,op,Colonoscopy,0
+130,op,Colonoscopy,7
+140,op,Colonoscopy,0
+150,op,Colonoscopy,0
+160,op,Colonoscopy,2
+170,op,Colonoscopy,0
+300,op,Colonoscopy,210
+301,op,Colonoscopy,10112
+320,op,Colonoscopy,0
+330,op,Colonoscopy,0
+340,op,Colonoscopy,0
+400,op,Colonoscopy,0
+410,op,Colonoscopy,0
+430,op,Colonoscopy,0
+502,op,Colonoscopy,1
+X01,op,Colonoscopy,2255
+100,op,Flexi Sigmoidoscopy,4415
+101,op,Flexi Sigmoidoscopy,11
+110,op,Flexi Sigmoidoscopy,4
+120,op,Flexi Sigmoidoscopy,8
+130,op,Flexi Sigmoidoscopy,1
+140,op,Flexi Sigmoidoscopy,0
+150,op,Flexi Sigmoidoscopy,0
+160,op,Flexi Sigmoidoscopy,0
+170,op,Flexi Sigmoidoscopy,0
+300,op,Flexi Sigmoidoscopy,7
+301,op,Flexi Sigmoidoscopy,7835
+320,op,Flexi Sigmoidoscopy,0
+330,op,Flexi Sigmoidoscopy,1
+340,op,Flexi Sigmoidoscopy,3
+400,op,Flexi Sigmoidoscopy,3
+410,op,Flexi Sigmoidoscopy,2
+430,op,Flexi Sigmoidoscopy,1
+502,op,Flexi Sigmoidoscopy,6
+X01,op,Flexi Sigmoidoscopy,8179
+100,op,Cystoscopy,216
+101,op,Cystoscopy,312313
+110,op,Cystoscopy,28
+120,op,Cystoscopy,8
+130,op,Cystoscopy,15
+140,op,Cystoscopy,3
+150,op,Cystoscopy,0
+160,op,Cystoscopy,3
+170,op,Cystoscopy,0
+300,op,Cystoscopy,7
+301,op,Cystoscopy,33
+320,op,Cystoscopy,20
+330,op,Cystoscopy,17
+340,op,Cystoscopy,5
+400,op,Cystoscopy,546
+410,op,Cystoscopy,8
+430,op,Cystoscopy,5
+502,op,Cystoscopy,2115
+X01,op,Cystoscopy,606
+100,op,Gastroscopy,974
+101,op,Gastroscopy,113
+110,op,Gastroscopy,4
+120,op,Gastroscopy,346
+130,op,Gastroscopy,6
+140,op,Gastroscopy,74
+150,op,Gastroscopy,0
+160,op,Gastroscopy,1
+170,op,Gastroscopy,0
+300,op,Gastroscopy,476
+301,op,Gastroscopy,17457
+320,op,Gastroscopy,1
+330,op,Gastroscopy,0
+340,op,Gastroscopy,1
+400,op,Gastroscopy,57
+410,op,Gastroscopy,2
+430,op,Gastroscopy,38
+502,op,Gastroscopy,2
+X01,op,Gastroscopy,3717
